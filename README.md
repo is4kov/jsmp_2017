@@ -3,4 +3,4 @@ Slides for the lecture about modern HTML & CSS features and tricks @ EPAM JS Men
 
 ### Link to slides:
 
-http://is4kov.github.io/jsmp_.2017
+http://is4kov.github.io/jsmp_2017
