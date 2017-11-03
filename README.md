@@ -1,1 +1,6 @@
-# jsmp_2017
+# HTML & CSS Mastership
+Slides for the lecture about modern HTML & CSS features and tricks @ EPAM JS Mentoring Program
+
+### Link to slides:
+
+http://is4kov.github.io/jsmp_3.11.2017
